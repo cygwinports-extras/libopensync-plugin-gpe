@@ -1,4 +1,4 @@
 category: Libs
-requires: cygwin glib2 libopensync0 libxml2
+requires: glib2 libopensync0 libxml2
 sdesc: "OpenSync GPE plugin"
 ldesc: "GPE plugin for the OpenSync synchronization framework"
